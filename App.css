@@ -1,0 +1,32 @@
+.btn{
+  background-color: blue;
+  padding: 17px 20px;
+  width: 50%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  border-radius: 15px;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+}
+img{
+  width: 400px;
+  height: 300px;
+}
+.main {
+  border: 2px solid black;
+ position: relative;
+ left: 130px;
+  float: left; 
+  margin: 7px;
+  padding: 5px;
+  border-radius: 10px;
+  transition: 0.3s ease;
+}
+.main:hover{
+  background-color: rgb(47, 223, 47);
+  
+}
